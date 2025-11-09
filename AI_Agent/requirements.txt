@@ -1,0 +1,6 @@
+google-adk
+arxiv
+python-dotenv
+requests
+PyPDF2
+beautifulsoup4
